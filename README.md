@@ -35,6 +35,22 @@ based on new orders.
 
 ## Notebooks
 _1 - Data Wrangling.ipynb_
+- Investigation into several Data Sets, including Olist
+- Data grouping of several Olist tables into a single orders DataFrame
+
 _2 - EDA.ipynb_
+- RFM Score Generation 
+- Tableau Workbook Links
+  - [RFM Score Investigation](https://public.tableau.com/authoring/OL_Data_Metric_EDA/SellerGeo#1)
+  - [Mapping of Olist Orders](https://public.tableau.com/app/profile/karl.deakyne/viz/OL_Data_Orders_Mapped/OrdersMapped)
+
 _3 - Similarity Score Generation.ipynb_
+- Generation of Category Group and Similarity Score Tables
+- Investigation into Similiarity Score's performance based on Silhouette Scores
+  - Euclidean Distance
+  - Modified Euclidean Distance
+  - Cosine Similarity
+
 _4 - Product Recommendation Engine.ipynb_
+- Methods to generate ranked recommendations
+- Method to update Category and Similarity tables based on new orders

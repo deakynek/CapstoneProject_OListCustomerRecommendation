@@ -3,6 +3,10 @@
 ## Data Set
 [Olist Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
+## Reports
+
+[Final Presentation with speaker notes](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
 ## Summary
 Using a dataset of over 100k real world orders provided by Olist,
 the largest department store in Brazilian market places, the code

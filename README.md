@@ -4,8 +4,9 @@
 [Olist Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ## Reports
-
-[Final Presentation with speaker notes](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+FinalReport.pdf
+FinalPresentation.pdf
+[Final Presentation with speaker notes](https://docs.google.com/presentation/d/1o4-Udg7TlwEEAaXnc0wFo_mJGupSzduOmy0cx74tTmI/edit#slide=id.p)
 
 ## Summary
 Using a dataset of over 100k real world orders provided by Olist,

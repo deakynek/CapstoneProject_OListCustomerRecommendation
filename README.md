@@ -5,7 +5,9 @@
 
 ## Reports
 FinalReport.pdf
+
 FinalPresentation.pdf
+
 [Final Presentation with speaker notes](https://docs.google.com/presentation/d/1o4-Udg7TlwEEAaXnc0wFo_mJGupSzduOmy0cx74tTmI/edit#slide=id.p)
 
 ## Summary
